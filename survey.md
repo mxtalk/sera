@@ -74,8 +74,8 @@ Hand in two files:
 ```
 task:
 surveyor: name or wallet
-model: name and version, if any
-thinking: level, if any
+model: name and version, if known
+thinking: level, if known
 date:
 read: the files you read
 ```
