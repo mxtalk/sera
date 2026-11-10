@@ -78,6 +78,6 @@ date:
 read: the files you read
 ```
 
-A pass is complete when every row has a verdict or a list error, and every repaired row has a repair.
+A pass is complete when every row has a verdict or a list error, every repaired row has a repair, and every row has reasoning.
 
 Handing in a pass licenses it under CC BY-SA 4.0, so sera can publish it.
