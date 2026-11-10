@@ -48,7 +48,7 @@ The fire list has a row for each fire, and is also your pass: fill it in and han
 
 ## verdicts
 
-**clear** — The use meets the fix.
+**clear** — The use does what the function says, and the measure calls for nothing more.
 
 **repaired** — The use doesn't do what the function says, or the measure calls for a change.
 
