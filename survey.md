@@ -54,7 +54,7 @@ The fire list has a row for each fire, and is also your pass: fill it in and han
 
 **fixed wording** — A proper name, a cited or linked work's title, or a direct quotation. A fire inside fixed wording is clear by rule: changing it would break the reference or misquote the source. Put `fixed wording` in reasoning. No repair changes fixed wording.
 
-Change only what the fix calls for at this fire, and only this fire's change. A repair may run to more than one sentence if it needs to.
+Change only what the fix calls for at this fire. If that changes another fire, give its ID in reasoning. A repair may run to more than one sentence if it needs to.
 
 ## list errors
 
