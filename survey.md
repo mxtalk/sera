@@ -74,8 +74,10 @@ Hand in two files:
 ```
 task:
 surveyor: name or wallet
-model: name and version, if known
+model: name and version, if any
 thinking: level, if known
+harness: what the model ran in, if any
+human: what any person did beyond starting the run
 date:
 read: the files you read
 ```
