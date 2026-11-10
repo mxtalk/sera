@@ -16,7 +16,7 @@ Besides this file and the survey's README, text and fire list, read these files,
 
 - [mxtalk.md](https://raw.githubusercontent.com/mxtalk/mxtalk/c716391c151c8302d6d69fd4fc3f943dc3b07691/mxtalk.md): the datum
 - [sera.md](https://raw.githubusercontent.com/mxtalk/mxtalk/c716391c151c8302d6d69fd4fc3f943dc3b07691/sera.md): the framework and its terms
-- - [*the*](https://raw.githubusercontent.com/mxtalk/sera/99f6ddb9efaf6758be5b17eab2b9dc10f1a90e2d/fixes/the.md), [*and*](https://raw.githubusercontent.com/mxtalk/sera/99f6ddb9efaf6758be5b17eab2b9dc10f1a90e2d/fixes/and.md) and [*of*](https://raw.githubusercontent.com/mxtalk/sera/99f6ddb9efaf6758be5b17eab2b9dc10f1a90e2d/fixes/of.md): the fixes
+-  [*the*](https://raw.githubusercontent.com/mxtalk/sera/99f6ddb9efaf6758be5b17eab2b9dc10f1a90e2d/fixes/the.md), [*and*](https://raw.githubusercontent.com/mxtalk/sera/99f6ddb9efaf6758be5b17eab2b9dc10f1a90e2d/fixes/and.md) and [*of*](https://raw.githubusercontent.com/mxtalk/sera/99f6ddb9efaf6758be5b17eab2b9dc10f1a90e2d/fixes/of.md): the fixes
 
 Apply the fixes exactly as written. Nothing else in either repo is part of a fix.
 
@@ -51,6 +51,8 @@ The fire list has a row for each fire, and is also your pass: fill it in and han
 **clear** — The use does what the function says, and the measure calls for nothing more.
 
 **repaired** — The use doesn't do what the function says, or the measure calls for a change.
+
+**fixed wording** — A proper name, a cited or linked work's title, or a direct quotation. A fire inside fixed wording is clear by rule: changing it would break the reference or misquote the source. Put `fixed wording` in reasoning. No repair changes fixed wording.
 
 Change only what the fix calls for at this fire, and only this fire's change. A repair may run to more than one sentence if it needs to.
 
