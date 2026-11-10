@@ -43,7 +43,7 @@ The fire list has a row for each fire, and is also your pass: fill it in and han
 - **original** — The sentence holding the fire, as it stands, with the fire in [brackets]. Some pieces stand whole; the survey's README says which.
 - **verdict** — `clear` or `repaired`.
 - **repair** — For a repaired fire: the repaired original, without the fire's brackets.
-- **reasoning** — Your reasoning, in your own words, up to 50 words. Optional, except where this file asks for it.
+- **reasoning** — Your reasoning, in your own words, up to 50 words. Required on every row.
 - **list_error** — `yes` where sera's row is wrong.
 
 ## verdicts
