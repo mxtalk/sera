@@ -50,7 +50,7 @@ The fire list has a row for each fire, and is also your pass: fill it in and han
 
 **clear** — The use meets the fix.
 
-**repaired** — The fix calls for a change.
+**repaired** — The use doesn't do what the function says, or the measure calls for a change.
 
 Change only what the fix calls for at this fire, and only this fire's change. A repair may run to more than one sentence if it needs to.
 
