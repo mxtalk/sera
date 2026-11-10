@@ -56,6 +56,8 @@ The fire list has a row for each fire, and is also your pass: fill it in and han
 
 Change only what the fix calls for at this fire. If that changes another fire, give its ID in reasoning. A repair may run to more than one sentence if it needs to.
 
+In reasoning: for a clear fire, show the function at work on it and the measure considered; for a repaired fire, say why; for fixed wording, `fixed wording` is enough.
+
 ## list errors
 
 Where a row is wrong, or the list misses a fire, put `yes` in list_error on that row, or the nearest one, and state the error in reasoning. A wrong row may leave verdict blank; a flag on a correct row doesn't excuse its verdict.
