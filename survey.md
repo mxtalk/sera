@@ -2,7 +2,7 @@
 
 How to make a pass for sera.
 
-6 November 2026 · Daniel Tuck
+10 November 2026 · Daniel Tuck
 
 ## pass
 
