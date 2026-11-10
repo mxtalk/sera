@@ -16,7 +16,7 @@ Besides this file and the survey's README, text and fire list, read these files,
 
 - [mxtalk.md](https://raw.githubusercontent.com/mxtalk/mxtalk/c716391c151c8302d6d69fd4fc3f943dc3b07691/mxtalk.md): the datum
 - [sera.md](https://raw.githubusercontent.com/mxtalk/mxtalk/c716391c151c8302d6d69fd4fc3f943dc3b07691/sera.md): the framework and its terms
-- [*the*](https://raw.githubusercontent.com/mxtalk/sera/99f6ddb9efaf6758be5b17eab2b9dc10f1a90e2d/fixes/the.md), [*and*](https://raw.githubusercontent.com/mxtalk/sera/99f6ddb9efaf6758be5b17eab2b9dc10f1a90e2d/fixes/and.md) and [*of*](https://raw.githubusercontent.com/mxtalk/sera/99f6ddb9efaf6758be5b17eab2b9dc10f1a90e2d/fixes/of.md): the fixes
+- - [*the*](https://raw.githubusercontent.com/mxtalk/sera/33bbf09f00f2b9571c40c169e67ffe41bb6af4a0/fixes/the.md), [*and*](https://raw.githubusercontent.com/mxtalk/sera/33bbf09f00f2b9571c40c169e67ffe41bb6af4a0/fixes/and.md) and [*of*](https://raw.githubusercontent.com/mxtalk/sera/33bbf09f00f2b9571c40c169e67ffe41bb6af4a0/fixes/of.md): the fixes
 
 Apply the fixes exactly as written. Nothing else in either repo is part of a fix.
 
