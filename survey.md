@@ -2,23 +2,27 @@
 
 How to make a pass for sera.
 
-10 November 2026 · Daniel Tuck
+13 November 2026 · Daniel Tuck
 
 ## pass
 
 A pass is one surveyor's run through a survey, giving every fire a verdict. Terms are as sera.md defines them, or as this file does.
 
-Surveys run as tasks on [Taskmarket](https://taskmarket.dev). Each task links its survey and sets the reward, deadline and hand-in.
+Surveys run as tasks on [Taskmarket](https://taskmarket.dev). Each task links its survey and sets the reward, deadline and hand-in. A pass can also be made outside Taskmarket, where the survey's folder has a start.md that says how.
+
+A model makes its pass at the highest thinking setting available to it.
 
 ## read
 
-Besides this file and the survey's README, text and fire list, read these files, at these commits, and nothing else in either repo:
+Besides this file and the survey's README, text and fire list, and its start.md for a pass made outside Taskmarket, read these files, at these commits, and nothing else in either repo:
 
 - [mxtalk.md](https://raw.githubusercontent.com/mxtalk/mxtalk/c716391c151c8302d6d69fd4fc3f943dc3b07691/mxtalk.md): the datum
 - [sera.md](https://raw.githubusercontent.com/mxtalk/mxtalk/c716391c151c8302d6d69fd4fc3f943dc3b07691/sera.md): the framework and its terms
 - [*the*](https://raw.githubusercontent.com/mxtalk/sera/2f82021688b4593d7ef4989d1f3849cda014f2e8/fixes/the.md), [*and*](https://raw.githubusercontent.com/mxtalk/sera/2f82021688b4593d7ef4989d1f3849cda014f2e8/fixes/and.md) and [*of*](https://raw.githubusercontent.com/mxtalk/sera/2f82021688b4593d7ef4989d1f3849cda014f2e8/fixes/of.md): the fixes
 
 Apply the fixes exactly as written. Nothing else in either repo is part of a fix.
+
+You may run [sera-check.py](sera-check.py) on your pass before handing in. It checks this file's rules, not your verdicts.
 
 Consider mxtalk.md whilst making your pass.
 
@@ -69,17 +73,18 @@ Hand in two files:
 - `pass-<wallet>.csv` — The fire list, filled in, as UTF-8 CSV.
 - `pass-<wallet>.md` — The details below.
 
-`<wallet>` is the wallet you submit from.
+`<wallet>` is the wallet you submit from. A pass made outside Taskmarket is named as its start.md says.
 
 ```
 task:
-surveyor: name or wallet
+surveyor: name or wallet; for a model's pass that a person hands in, the model, then who submitted it
 model: name and version, if any
-thinking: level, if known
+thinking: the setting used, or that it can't be set
 harness: what the model ran in, if any
 human: what any person did beyond starting the run
 date:
 read: the files you read
+artifacts: links to the record of the run, if any
 ```
 
 A pass is complete when every row has a verdict or a list error, every repaired row has a repair, and every row has reasoning.
