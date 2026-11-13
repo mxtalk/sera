@@ -8,7 +8,7 @@ How to make a pass for sera survey 001 outside Taskmarket.
 
 1. Open a fresh chat, outside any project, with memory off and web access and code tools on. Choose the highest thinking setting available.
 2. Attach this file.
-3. In your first message, give your name or handle, today's date, the app, and the model's exact name, version and thinking setting, as the app shows them. Then ask it to follow START.md.
+3. In your first message, give your name or handle, today's date, the app, and the model's exact name, version and thinking setting, as the app shows them. Then ask it to follow start.md.
 4. Download the two files it hands back. Check the .md, and put the chat's share link in `artifacts:`.
 5. Open a pull request on [mxtalk/sera](https://github.com/mxtalk/sera) adding both files to `surveys/001-geodetic-datum/passes/`.
 
