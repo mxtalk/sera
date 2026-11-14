@@ -62,9 +62,12 @@ def main(fires_path, pass_path, md_path=None):
         if not any(abs(c - i) <= 1 for c in changed): warn.append(f"{fid}: repair doesn't change anything at the fire")
         others = where.get((fid.split(".")[0], " ".join(t).lower()), {})
         named = set(IDS.findall(why))
+        # a diff can't tell which of two identical words went: a named, untouched fire of the same word covers one touched, unnamed fire
+        spare = collections.Counter(a[j] for j, oid in others.items() if j != i and j < len(a) and j not in touched and oid in named)
         for j, oid in others.items():
             if j != i and j < len(a) and j in touched and oid not in named:
-                err.append(f"{fid}: changes {oid} without naming it")
+                if spare[a[j]]: spare[a[j]] -= 1
+                else: err.append(f"{fid}: changes {oid} without naming it")
         for m in re.finditer(r"\b(\w+)\s+\1\b", rep.lower()):
             if m.group(0) not in " ".join(a): warn.append(f"{fid}: doubled word '{m.group(0)}'")
     # templates: reasons that differ only in quoted stretches
