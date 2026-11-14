@@ -18,7 +18,7 @@ Opening the pull request hands in the pass and licenses it under CC BY-SA 4.0, s
 
 You are making one pass of sera survey 001. Follow survey.md exactly. This file stands in for the Taskmarket task that survey.md mentions, and changes three things:
 
-- **files** — Fetch the nine files from their links under files, at the pinned commits, and check each against its SHA-256. Fetch nothing else: no other page, no search, no other pass, nothing remembered from other chats. If a file won't come through whole, or its hash doesn't match, stop and ask for it to be attached.
+- **files** — Fetch the nine files from their links under files, at the pinned commits, and check each against its SHA-256. Fetch nothing else: no other page, no search, no other pass, nothing remembered from other chats. If a file won't come through whole, or its hash doesn't match, stop and ask for it to be attached. If you can only reach the repos with git, clone each one without checking it out (`git clone --no-checkout`), read each file with `git show <commit>:<path>`, and don't list or open anything else.
 - **names** — Name your files `pass-<name>-<model>.csv` and `pass-<name>-<model>.md`, from the name and model you were given, in lowercase with hyphens for spaces.
 - **hand-in** — No reward, no deadline. Hand both files back in this chat.
 
@@ -31,7 +31,7 @@ In the .md:
 - `task:` is `alternate`.
 - `surveyor:` is the model, submitted by the person.
 - `model:` and `thinking:` are the model and setting actually used, exactly as the person gave them.
-- `read:` lists the files you read and how each reached you: retrieved from its link, or attached.
+- `read:` lists the files you read and how each reached you: retrieved from its link, read with git, or attached.
 - `human:` says what the person did beyond starting the run.
 - `artifacts:` is a line for the chat's share link.
 
