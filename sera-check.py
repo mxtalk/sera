@@ -10,6 +10,7 @@ IDS = re.compile(r"\bp\d+\.(?:the|and|of)\d+\b")
 HEADER = ["fire", "fix", "original", "verdict", "repair", "reasoning", "list_error"]
 MD_FIELDS = ["task", "surveyor", "model", "thinking", "harness", "human", "date", "read"]
 TEMPLATE_WARN = 0.30   # share of non-fixed-wording rows covered by the five commonest reason templates
+MARK = "\ue000"       # stands in for the fire while a sentence is split into tokens; a private-use character no text holds
 
 def toks(s): return re.findall(r"[A-Za-z0-9'’]+|[^\sA-Za-z0-9'’]", s)
 def words(s): return len(s.split())
@@ -19,13 +20,15 @@ def template(s):
 def split_fire(orig):
     m = list(FIRE.finditer(orig))
     if len(m) != 1: return None, None
-    t = toks(orig[:m[0].start()] + "" + orig[m[0].end():]); i = t.index(""); t[i] = m[0].group(1)
+    t = toks(orig[:m[0].start()] + MARK + orig[m[0].end():]); i = t.index(MARK); t[i] = m[0].group(1)
     return t, i
 
 def main(fires_path, pass_path, md_path=None):
     err, warn = [], []
-    src = list(csv.reader(open(fires_path, encoding="utf-8-sig", newline="")))
-    dst = list(csv.reader(open(pass_path, encoding="utf-8-sig", newline="")))
+    src = [r for r in csv.reader(open(fires_path, encoding="utf-8-sig", newline="")) if r]   # blank lines are not rows
+    dst = [r for r in csv.reader(open(pass_path, encoding="utf-8-sig", newline="")) if r]
+    if not src or not dst:
+        print(f"ERROR   {fires_path if not src else pass_path} is empty"); print("FAILS CHECKS: 1 errors, 0 warnings"); return 1
     if [h.strip() for h in dst[0]] != HEADER: err.append(f"header is {dst[0]}")
     if len(dst) != len(src): err.append(f"{len(dst)-1} rows, fire list has {len(src)-1}")
     where = collections.defaultdict(dict)          # (piece, plain sentence) -> {token index: fire ID}
@@ -82,7 +85,7 @@ def main(fires_path, pass_path, md_path=None):
             top, n = t2.most_common(1)[0]
             if n / len(ws) > TEMPLATE_WARN: warn.append(f"{fix}: one template on {n} of {len(ws)} rows: {top[:90]}")
     if md_path:
-        md = open(md_path, encoding="utf-8").read()
+        md = open(md_path, encoding="utf-8-sig").read()
         for f in MD_FIELDS:
             if not re.search(rf"^{f}:", md, re.M): err.append(f"pass .md lacks '{f}:'")
     v_by_fix = {fx: {k[1]: n for k, n in counts.items() if k[0] == fx} for fx in ("the", "and", "of")}
@@ -93,4 +96,5 @@ def main(fires_path, pass_path, md_path=None):
     return 1 if err else 0
 
 if __name__ == "__main__":
+    if len(sys.argv) < 3: sys.exit("Usage: python3 -I sera-check.py fires.csv pass.csv [pass.md]")
     sys.exit(main(*sys.argv[1:4]))
