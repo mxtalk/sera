@@ -39,7 +39,7 @@ Elsewhere, a sentence ends at . ! ? or …, after any closing quote, bracket or 
 
 ## pins
 
-This survey runs on mxtalk.md and sera.md at mxtalk/mxtalk `c716391c151c8302d6d69fd4fc3f943dc3b07691`, the fixes at mxtalk/sera `2f82021688b4593d7ef4989d1f3849cda014f2e8`, and survey.md at mxtalk/sera `ef44818ddbfcadea5694a68c70c426623256b2fa`.
+This survey runs on mxtalk.md and sera.md at mxtalk/mxtalk `c716391c151c8302d6d69fd4fc3f943dc3b07691`, the fixes at mxtalk/sera `2f82021688b4593d7ef4989d1f3849cda014f2e8`, and survey.md at mxtalk/sera `5a201616bc4105ce1e5dce814aac0baae9cf0de1`.
 
 ## checksums
 
