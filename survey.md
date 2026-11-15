@@ -2,7 +2,7 @@
 
 How to make a pass for sera.
 
-13 November 2026 · Daniel Tuck
+15 November 2026 · Daniel Tuck
 
 ## pass
 
@@ -10,7 +10,7 @@ A pass is one surveyor's run through a survey, giving every fire a verdict. Term
 
 Surveys run as tasks on [Taskmarket](https://taskmarket.dev). Each task links its survey and sets the reward, deadline and hand-in. A pass can also be made outside Taskmarket, where the survey's folder has a start.md that says how.
 
-A model makes its pass at the highest thinking setting available to it.
+A model can make its pass at any thinking setting; the pass records which.
 
 ## read
 
@@ -56,7 +56,7 @@ The fire list has a row for each fire, and is also your pass: fill it in and han
 
 **repaired** — The use doesn't do what the function says, or the measure calls for a change.
 
-**fixed wording** — A proper name, a cited or linked work's title, or a direct quotation. A fire inside fixed wording is clear by rule: changing it would break the reference or misquote the source. Put `fixed wording` in reasoning. No repair changes fixed wording.
+**fixed wording** — A proper name, a cited or linked work's title, or a direct quotation. A fire inside fixed wording is clear by rule: changing it would break the reference or misquote the source. Start reasoning with `fixed wording`. No repair changes fixed wording.
 
 Change only what the fix calls for at this fire. If that changes another fire, give its ID in reasoning. A repair may run to more than one sentence if it needs to.
 

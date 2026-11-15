@@ -44,7 +44,7 @@ def main(fires_path, pass_path, md_path=None):
         if not why: err.append(f"{fid}: no reasoning")
         longest = max(longest, words(why))
         if words(why) > 50: err.append(f"{fid}: reasoning {words(why)} words")
-        fixed = "fixed wording" in why.lower()
+        fixed = why.lower().startswith("fixed wording")   # a claim opens the reason; a mention further in is not one
         if fixed and v == "repaired": err.append(f"{fid}: fixed wording but repaired")
         if not fixed and why: per_fix[s[1]].append(why)
         if v == "clear" and rep: warn.append(f"{fid}: clear but has a repair")
