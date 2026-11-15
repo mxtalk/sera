@@ -44,7 +44,7 @@ In the .md:
 | [the.md](https://raw.githubusercontent.com/mxtalk/sera/2f82021688b4593d7ef4989d1f3849cda014f2e8/fixes/the.md) | `343ef803f7e12ee7d3df59a2b400d0467da8f389b7503fa452f7ef19bca32b67` |
 | [and.md](https://raw.githubusercontent.com/mxtalk/sera/2f82021688b4593d7ef4989d1f3849cda014f2e8/fixes/and.md) | `eca0560abee3854e9af4917fa4822f6185f76d22b84d0437fdcd145fb214856f` |
 | [of.md](https://raw.githubusercontent.com/mxtalk/sera/2f82021688b4593d7ef4989d1f3849cda014f2e8/fixes/of.md) | `799779213ca68c9657a95c7ce322c93981094b1ddd22612e8e857e88d8d3eb7f` |
-| [survey.md](https://raw.githubusercontent.com/mxtalk/sera/ef44818ddbfcadea5694a68c70c426623256b2fa/survey.md) | `a41d8bced209b5f3b321e79d6cbf244814d0e733add59f8cce92e89df063ab32` |
-| [README.md](https://raw.githubusercontent.com/mxtalk/sera/f73eb54c793fefda4803c8757953909667811ab4/surveys/001-geodetic-datum/README.md) | `803950847df60753204398678fa142fcfe5d614d0bf65887e497b119db90792e` |
+| [survey.md](https://raw.githubusercontent.com/mxtalk/sera/5a201616bc4105ce1e5dce814aac0baae9cf0de1/survey.md) | `99f00385a706c927f02285959f3d43fdf028e8740e309e40ca550933ba4fe0dd` |
+| [README.md](https://raw.githubusercontent.com/mxtalk/sera/441102afab76e4010961b4e0863e3894a5a12147/surveys/001-geodetic-datum/README.md) | `784cd6a99a10a2d79c8a986ee2bb7a52e1b5e405dac0c748953d7ad83a5d0d49` |
 | [text.md](https://raw.githubusercontent.com/mxtalk/sera/84ea19647e302c615881f960ad16f11a99f85bc4/surveys/001-geodetic-datum/text.md) | `00cf2c57df03cae42fdb02b83f93342f380df57af08513ec669ae4cb8be79f2a` |
 | [fires.csv](https://raw.githubusercontent.com/mxtalk/sera/84ea19647e302c615881f960ad16f11a99f85bc4/surveys/001-geodetic-datum/fires.csv) | `7599dc49952ca7651ffb9d5c3fbe99722857ea8a10ffc8b607551616f21d4de4` |
