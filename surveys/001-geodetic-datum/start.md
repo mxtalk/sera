@@ -8,7 +8,7 @@ How to make a pass for sera survey 001 outside Taskmarket.
 
 1. Open a fresh chat, outside any project, with memory off and web access and code tools on. Choose the highest thinking setting available.
 2. Attach this file.
-3. In your first message, give your name or handle, today's date, the app, and the model's exact name, version and thinking setting, as the app shows them. Then ask it to follow start.md.
+3. In your first message, give your name or handle, today's date and the time, the app, and the model's exact name, version and thinking setting, as the app shows them. Then ask it to follow start.md.
 4. Download the two files it hands back. Check the .md, and put the chat's share link in `artifacts:`.
 5. Open a pull request on [mxtalk/sera](https://github.com/mxtalk/sera) adding both files to `surveys/001-geodetic-datum/passes/`.
 
@@ -19,7 +19,7 @@ Opening the pull request hands in the pass and licenses it under CC BY-SA 4.0, s
 You are making one pass of sera survey 001. Follow survey.md exactly. This file stands in for the Taskmarket task that survey.md mentions, and changes three things:
 
 - **files** — Fetch the nine files from their links under files, at the pinned commits, and check each against its SHA-256. Fetch nothing else: no other page, no search, no other pass, nothing remembered from other chats. If a file won't come through whole, or its hash doesn't match, stop and ask for it to be attached. If you can only reach the repos with git, clone each one without checking it out (`git clone --no-checkout`), read each file with `git show <commit>:<path>`, and don't list or open anything else. The one exception is [sera-check.py](https://raw.githubusercontent.com/mxtalk/sera/main/sera-check.py): survey.md lets you run it on your pass before handing in, so you may fetch it from the main branch (with git, `git show origin/main:sera-check.py`). Say in `read:` if you ran it.
-- **names** — Name your files `pass-<name>-<model>.csv` and `pass-<name>-<model>.md`, from the name and model you were given, in lowercase with hyphens for spaces.
+- **names** — Name your files `pass-<name>-<model>-<date>-<time>.csv` and `pass-<name>-<model>-<date>-<time>.md`, from the name, model, date and time you were given, in lowercase with hyphens for spaces, the date as YYYYMMDD and the time as HHMM (for example `pass-ada-lovelace-astra-6-20261117-0830.csv`).
 - **hand-in** — No reward, no deadline. Hand both files back in this chat.
 
 Write each reason for its own fire, in your own words. Code may read, split and write the files, but not the reasons. Stock or templated reasons aren't accepted.
