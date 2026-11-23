@@ -1,0 +1,743 @@
+{{Short description|none}} <!-- "none" is preferred when the title is sufficiently descriptive; see [[WP:SDNONE]] -->
+{{Hatnote group|
+{{Redirect|History of the English language|the course|History of the English language (education)|the history of English people|English people#History of English people}}
+}}
+{{Graphical timeline
+
+|title=Timeline of the English language
+|align=right
+|height = 50
+
+|plot-colour= #FFF8DC
+|from=2050
+|to=400
+|scale-increment=100
+
+|bar1-from=450
+|bar1-to=1075
+|bar1-text=[[Old English]]
+|bar1-left=0
+|bar1-right=1
+|bar1-color= #FFDAB9
+
+|bar2-from=1075
+|bar2-to=1450
+|bar2-text=[[Middle English]]
+|bar2-left=0
+|bar2-right=1
+|bar2-color= #FFA07A
+
+|bar3-from=1450
+|bar3-to=1800
+|bar3-text=[[Early Modern English]]
+|bar3-left=0
+|bar3-right=1
+|bar3-color = #FF7F50
+
+|bar4-from=1800
+|bar4-to=2025
+|bar4-text=[[Late Modern English]]
+|bar4-left=0
+|bar4-right=1
+|bar4-color = #FF4500
+
+|bar5-from=350
+|bar5-to=450
+|bar5-text= ↓[[Ingvaeonic]]
+|bar5-left=0
+|bar5-right=1
+|bar5-color = #FFF8DC
+
+|bar6-from=2025
+|bar6-to=2100
+|bar6-text={{white| ↑Future}}
+|bar6-left=0
+|bar6-right=1
+|bar6-color = #D2691E
+
+|bar7-from=1066
+|bar7-to=1071
+|bar7-text=
+|bar7-left=0.95
+|bar7-right=1.05
+|bar7-color =red
+
+|bar8-from=1400
+|bar8-to=1700
+|bar8-text= 
+|bar8-left=0.95
+|bar8-right=1.05
+|bar8-color =red
+
+|bar9-from=1920
+|bar9-to=2100
+|bar9-text=
+|bar9-left=0.95
+|bar9-right=1.05
+|bar9-color =red
+
+|bar10-from=450
+|bar10-to=550
+|bar10-text=
+|bar10-left=0.95
+|bar10-right=1.05
+|bar10-color =red
+
+|bar11-from=860
+|bar11-to=960
+|bar11-text=
+|bar11-left=0.95
+|bar11-right=1.05
+|bar11-color =red
+
+|note1= {{small|'''1066:''' [[Norman Conquest]]; replacement of Germanic elite with [[Norman French]] speakers}}
+|note1-at =1066
+
+|note2= {{small|'''{{circa|800–950|lk=no}}:''' [[Viking]] invasions; assimilation of words from [[List of English words of Old Norse origin|Old Norse]] and simplification of Old English grammar}}
+|note2-at =870
+
+|note3= {{small|'''{{circa|1600}}:''' the [[British Empire]] helps spread English around the world}}
+|note3-at=1600
+
+|note4 = {{small|Growth of cinema, popular music, the Internet, and other English dominant media}} 
+|note4-at =1925
+
+|note5 = {{small|'''{{circa|450|lk=no}}:''' Settlement of [[Anglo-Saxon]] tribes in England speaking [[Germanic languages|Germanic dialects]]}} 
+|note5-at = 460
+
+|note6 = {{small|'''{{circa|1400–1700|lk=no}}:''' [[Great Vowel Shift]]}} 
+|note6-at = 1405
+
+}}
+{{english language}}
+
+[[English language|English]] is a [[West Germanic language]] that originated from [[North Sea Germanic|Ingvaeonic languages]] brought to [[Great Britain|Britain]] in the mid-5th to 7th centuries AD by [[Anglo-Saxon settlement of Britain|Anglo-Saxon migrants]] from what is now northwest [[Germany]], southern [[Denmark]] and the [[Netherlands]]. The Anglo-Saxons settled in the [[British Isles]] from the mid-5th century and came to dominate the bulk of southern Great Britain. Their language originated as a group of Ingvaeonic languages which were spoken by the settlers in [[England]] and southern and eastern [[Scotland]] in the early [[Middle Ages]], displacing the [[Common Brittonic|Celtic languages]], and, possibly, [[British Latin]], that had previously been dominant. [[Old English]] reflected the varied origins of the [[Anglo-Saxon kingdoms]] established in different parts of Britain. The [[Late West Saxon]] dialect eventually became dominant. A significant subsequent influence upon the shaping of Old English came from contact with the [[North Germanic languages]] spoken by the Scandinavian [[Vikings]] who [[Viking invasions of England|conquered and colonized parts of Britain during the 8th and 9th centuries]], which led to much lexical borrowing and grammatical simplification. The [[Anglian dialects]] had a greater influence on [[Middle English]].
+
+After the [[Norman Conquest]] in 1066, Old English was replaced, for a time, by [[Anglo-Norman language|Anglo-Norman]], also known as Anglo-Norman French, as the language of the upper classes. This is regarded as marking the end of the Old English or Anglo-Saxon era, as during this period the English language was heavily influenced by Anglo-Norman, developing into a phase known now as Middle English. The conquering Normans spoke a [[Romantic languages|Romance]] [[langue d'oïl]] called [[Old Norman]], which in Britain developed into Anglo-Norman. Many Norman and French loan words entered the local language in this period, especially in vocabulary related to the church, the court system, and the government. As Normans are descendants of [[Rollo|Vikings who invaded France]], Norman French was influenced by [[Old Norse]], and many Norse loanwords in English came directly from French. Middle English was spoken to the late 15th century. The system of [[orthography]] that was established during the Middle English period is largely still in use today. Later changes in pronunciation, combined with the adoption of various foreign spellings, mean that the [[English orthography|spelling of modern English words]] appears highly irregular.
+
+[[Early Modern English]] – the language used by [[William Shakespeare]] – is dated from around 1500. It incorporated many [[Renaissance]]-era loans from [[Latin]] and [[Ancient Greek]], as well as borrowings from other European languages, including [[French language|French]], [[German language|German]] and [[Dutch language|Dutch]]. Significant pronunciation changes in this period included the [[Great Vowel Shift]], which affected the qualities of most [[long vowel]]s. [[Modern English]] proper, similar in most respects to that spoken today,{{citation needed|date=January 2023}} was in place by the late 17th century.
+
+English as we know it today was exported to other parts of the world through [[British Empire|British colonisation]], and is now the dominant language in Britain and [[Ireland]], the [[United States]] and [[Canada]], [[Australia]], [[New Zealand]] and many smaller former colonies, as well as being widely spoken in [[India]], parts of [[Africa]], and elsewhere. Partially due to influence of the United States and its globalized efforts of commerce and technology, English took on the status of a global [[lingua franca]] in the second half of the 20th century. This is especially true in Europe, where English has largely taken over the former roles of French and, much earlier, Latin as a common language used to conduct business and diplomacy, share scientific and technological information, and otherwise communicate across national boundaries. The efforts of English-speaking [[Christian missionaries]] have resulted in English becoming a second language for many other groups.<ref>{{cite book|title=English Teaching as Christian Mision: An Applied Theology|date=27 April 2001|publisher=Herald Press|first=Donald|last=Snow|isbn=9780836191585}}</ref><ref>{{cite book|title=ESL: Creating a quality English as a second language program: A guide for churches|location=[[Grand Rapids, Michigan]]|publisher=CRC Publications|date=1998|first=Susan E|last=Burke|isbn=9781562123437}}</ref>
+
+Global variation among different [[English dialects]] and [[English accents|accents]] remains significant today.
+
+==Proto-English==
+{{see also|Celtic language decline in England|Saxon Shore}}
+
+[[File:2022 11 13 - Map West Germanic – cc. 476 CE - final.png|thumb|350px|Proto-English (early Anglo-Saxon) and the [[West Germanic languages]] {{circa}} 476 AD.<ref>[[Wolfram Euler|Euler, Wolfram]] 2022. ''Das Westgermanische – von der Herausbildung im 3. Jahrhundert bis zur Aufgliederung im 7. Jahrhundert – Analyse und Rekonstruktion [West Germanic – from the Formation in the 3rd Century to the Breakup in the 7th Century – Analysis and Reconstruction]''. Berlin, Inspiration Unlimited, p. 1 (cover)</ref>]]
+English has its roots in the languages of the [[Germanic peoples]] of northern Europe. During the [[Roman Empire]], most of the Germanic-inhabited area, [[Germania]], remained independent from Rome, although some southwestern parts were within the empire. Some Germans served in the [[Roman military]], and troops from Germanic tribes such as the [[Tungri]], [[Batavi (Germanic tribe)|Batavi]], [[Menapii]] and [[Frisii]] served in Britain ([[Roman Britain|Britannia]]) under Roman command. Germanic settlement and power expanded during the [[Migration Period]], which saw the [[fall of the Western Roman Empire]]. A [[Anglo-Saxon settlement of Britain|Germanic settlement of Britain]] took place from the 5th to the 7th century, following the [[end of Roman rule in Britain|end of Roman rule]] on the island.<ref>Oppenheimer, Stephen, 2006. ''The Origins of the British'' London, Robinson, pp. 364–374.</ref> 
+
+The ''[[Anglo-Saxon Chronicle]]'' relates that around the year 449 [[Vortigern]], king of the [[Brython|Britons]], invited the "Angle kin", [[Angles (tribe)|Angles]] allegedly led by the Germanic brothers [[Hengist and Horsa]], to help repel invading [[Picts]], in return for lands in the southeast of Britain. This led to waves of settlers who eventually established seven kingdoms, known as the [[heptarchy]]. The ''Chronicle'' was not a contemporaneous work, however, and cannot be regarded as an accurate record of such early events.<ref>Dark, Ken, 2000. ''Britain and the End of the Roman Empire''. Brimscombe, Gloucestershire, Tempus, pp. 43–47.</ref> [[Bede]], who wrote his ''[[Historia ecclesiastica gentis Anglorum|Ecclesiastical History]]'' in AD 731, writes of invasion by [[Angles (tribe)|Angles]], [[Saxons]] and [[Jutes]], although the precise nature of the invasion and settlement and the contributions made by these particular groups are the subject of much dispute among historians.<ref>Oppenheimer, Stephen, 2006. ''The Origins of the British'' London, Robinson, pp. 364–374.</ref>
+
+The languages spoken by the Germanic peoples who initially settled in Britain were part of the [[West Germanic]] branch of the [[Germanic language]] family. They consisted of dialects from the [[Ingvaeonic]] grouping, spoken mainly around the [[North Sea]] coast, in regions that lie within modern [[Denmark]], north-west [[Germany]] and the [[Netherlands]]. Due to specific similarities between early English and [[Old Frisian]], an [[Anglo-Frisian]] grouping is also identified, although it does not necessarily represent a node in the family tree.<ref>{{Cite web |last=Stiles |first=Patrick |title=Remarks on the 'Anglo-Frisian' Thesis (1995) |url=https://www.academia.edu/37163852}} @ [[Academia.edu]]</ref>
+
+These dialects had most of the typical West Germanic features, including a significant amount of grammatical [[inflection]]. Vocabulary came largely from the core Germanic stock, although due to the Germanic peoples' extensive contacts with the Roman world, the settlers' languages already included a number of [[loanword]]s from [[Latin]].<ref>Baugh, Albert and Cable, Thomas. 2002. ''The History of the English Language''. Upper Saddle River, New Jersey: Prentice Hall. pp. 79–81.</ref> For instance, the predecessor of Modern English ''wine'' had been borrowed into early Germanic from the Latin ''vinum''.
+
+==Old English==
+{{Main|Old English}}
+[[File:Beowulf Cotton MS Vitellius A XV f. 132r.jpg|thumb|The first page of the ''[[Beowulf]]'' manuscript, now in the [[British Library]]]]
+The Germanic settlers in the British Isles initially spoke several different dialects, which developed into a language that came to be called Anglo-Saxon. It displaced the indigenous [[Old Brittonic|Brittonic]] Celtic, and the [[Latin]] of the [[Roman occupation of Britain|former Roman rulers]], in parts of the areas of [[Great Britain|Britain]] that later formed the [[Kingdom of England]]. Celtic languages remained in most of [[Scotland]], [[Wales]] and [[Cornwall]], and many compound Celtic-Germanic place names survive, hinting at early language mixing.<ref>Crystal, David. 2004. ''The Stories of English''. London: Penguin. pp. 24–26.</ref> Old English continued to exhibit local variation, the remnants of which continue to be found in dialects of Modern English.<ref name="OriginOfAngloSaxon">{{Citation |last=Shore |first=Thomas William |title=[[commons:File:Shore T. W. - Origin of the Anglo-Saxon Race.pdf|Origin of the Anglo-Saxon Race – A Study of the Settlement of England and the Tribal Origin of the Old English People]] |pages=3, 393 |year=1906 |edition=1st |place=London |author-link=Thomas William Shore}}</ref> The four main dialects were [[Mercian dialect|Mercian]], [[Northumbrian dialect|Northumbrian]], [[Kentish dialect (Old English)|Kentish]] and [[West Saxon dialect|West Saxon]]. West Saxon formed the basis for the literary standard of the later Old English period.{{Citation needed|date=April 2026}} The dominant forms of Middle and Modern English developed mainly from Mercian.{{Citation needed|date=April 2026}}
+
+Old English was first written using a [[Runes|runic]] script called the [[Anglo-Saxon runes|futhorc]]. This was replaced by a [[Old English Latin alphabet|version of the Latin alphabet]] introduced by Irish missionaries in the 8th century. Most literary output was in either the Early West Saxon of [[Alfred the Great]]'s time, or the Late West Saxon, regarded as the "classical" form of Old English, of the Winchester school, inspired by Bishop [[Æthelwold of Winchester]], and followed by such writers as the prolific [[Ælfric of Eynsham]], "the Grammarian". The most famous surviving work from the Old English period is the [[epic poetry|epic]] poem ''[[Beowulf]]'', composed by an unknown poet.
+
+The [[Christianisation of Anglo-Saxon England|introduction of Christianity]] from around the year 600 encouraged the addition of over 400 [[Latin influence in English|Latin loan words]] into Old English, such as the predecessors of the modern ''priest'', ''paper'', and ''school'', and a smaller number of [[Greek language|Greek]] loan words.<ref>Baugh, Albert and Cable, Thomas. 2002. ''The History of the English Language''. Upper Saddle River, New Jersey: Prentice Hall. pp. 91–92.</ref> The speech of eastern and northern parts of England was also subject to strong [[Old Norse]] influence due to [[Danelaw|Scandinavian rule]] and settlement beginning in the 9th century (see below).
+
+Most native English speakers today find Old English unintelligible, even though about half of the most commonly used words in Modern English have Old English roots.<ref>{{cite web |url=http://www.bl.uk/learning/langlit/sounds/case-studies/geordie/ |title=Geordie dialect |publisher=Bl.uk |date=2007-03-12 |access-date=2010-06-19 |archive-date=2019-07-22 |archive-url=https://web.archive.org/web/20190722181114/http://www.bl.uk/learning/langlit/sounds/case-studies/geordie/ |url-status=dead }}</ref> The [[Old English grammar|grammar of Old English]] was much more [[inflection|inflected]] than modern English, combined with freer [[word order]], and was grammatically quite similar in some respects to modern [[German grammar|German]]. The language had demonstrative pronouns, equivalent to ''this'' and ''that'', but did not have the definite article ''the''. The Old English period is considered to have evolved into the [[Middle English]] period some time after the [[Norman Conquest]] of 1066, when the language came to be influenced significantly by the new ruling class's language, [[Old Norman]].<ref>{{cite web|url=http://www.uni-kassel.de/fb8/misc/lfb/html/text/4-1frame.html |title=4.1 The change from Old English to Middle English |publisher=Uni-kassel.de |access-date=2010-06-19}}</ref><ref>''The Oxford history of English lexicography, Volume 1'' By Anthony Paul Cowie</ref>
+
+===Scandinavian influence===
+{{Old Norse language map}}
+[[Vikings]] from modern-day [[Norway]] and [[Denmark]] began to [[Viking invasions of Britain|raid parts of Britain]] from the late 8th century onward. In 865, a major invasion was launched by what the Anglo-Saxons called the [[Great Heathen Army]], which eventually brought large parts of northern and eastern England, the [[Danelaw]], under Scandinavian control. Most of these areas were retaken by the English under [[Edward the Elder]] in the early 10th century, although [[Scandinavian York|York]] and [[Northumbria]] were not permanently regained until the death of [[Eric Bloodaxe]] in 954. Scandinavian raids resumed in the late 10th century during the reign of [[Æthelred the Unready]]. [[Sweyn Forkbeard]] was briefly declared king of England in 1013, followed by the longer reign of his son [[Cnut the Great|Cnut]] from 1016 to 1035, and Cnut's sons [[Harold Harefoot]] and [[Harthacnut]], until 1042.
+
+The Scandinavians, or [[Norsemen]], spoke dialects of a [[North Germanic languages|North Germanic]] language known as [[Old Norse]]. The Anglo-Saxons and the Scandinavians thus spoke related languages from different branches (West and North) of the [[Germanic languages|Germanic]] family. Many of their lexical roots were the same or similar, although their grammatical systems were more divergent. It is likely that significant numbers of Norse speakers settled in the [[Danelaw]] during the period of Scandinavian control. Many [[toponymy|place-names]] in those areas are of Scandinavian provenance, those ending in ''-by'', for example. It is believed that the settlers often established new communities in places that had not previously been developed by the Anglo-Saxons. The extensive [[language contact|contact]] between Old English and Old Norse speakers, including the possibility of intermarriage that resulted from the [[Treaty of Wedmore|acceptance of Christianity by the Danes]] in 878,<ref>{{cite book|last1=Fennell|first1=B|title=A History of English: A Sociolinguistic Approach|date=2001|publisher=Blackwell Publishing|location=Oxford}}</ref> undoubtedly influenced the varieties of those languages spoken in the areas of contact. 
+
+During the rule of Cnut and other Danish kings in the first half of the 11th century, a kind of [[diglossia]] may have come about, with the West Saxon literary language existing alongside the Norse-influenced Midland dialect of English, which could have served as a [[koiné language|koine]] or spoken lingua franca. When Danish rule ended, and particularly after the [[Norman Conquest]], the status of the minority Norse language presumably declined relative to that of English, and its remaining speakers assimilated to English in a process involving [[language shift]] and [[language death]]. The widespread [[bilingualism]] that must have existed during the process possibly contributed to the rate of borrowings from Norse into English.<ref name="CHEL320">Hogg, Richard M. (ed.). (1992). ''The Cambridge History of the English Language (Vol. 1): the Beginnings to 1066.'' Cambridge: Cambridge University Press, pp. 320ff.</ref>
+
+Only about 100 or 150 Norse words, mainly connected with government and administration, are found in Old English writing. The borrowing of words of this type was stimulated by Scandinavian rule in the Danelaw and during the later reign of Cnut. Most surviving Old English texts are based on the [[West Saxon dialect|West Saxon]] standard that developed outside the Danelaw. It is not clear to what extent Norse influenced the forms of the language spoken in eastern and northern England at that time. Later texts from the Middle English era, now based on an eastern Midland rather than a Wessex standard, reflect the significant impact that Norse had on the language. In all, English borrowed about [[List of English words of Old Norse origin|2,000 words from Old Norse]], several hundred surviving in [[Modern English]].<ref name="CHEL320" />
+
+Norse borrowings include many very common words, such as ''anger'', ''bag'', ''both'', ''hit'', ''law'', ''leg'', ''same'', ''skill'', ''sky'', ''take'', ''window'', and even the pronoun ''[[they]]''. Norse influence is also believed to have reinforced the adoption of the plural [[Copula (linguistics)|copula]]r verb form ''[[Copula (linguistics)#English|are]]'' rather, than alternative Old English forms like ''sind''. It is considered to have stimulated and accelerated the [[morphology (linguistics)|morphological]] simplification found in Middle English, such as the loss of [[grammatical gender]] and explicitly marked [[case (linguistics)|case]], except in pronouns.<ref>Baugh, Albert and Cable, Thomas. 2002. ''The History of the English Language''. Upper Saddle River, New Jersey: Prentice Hall. pp. 92–105.</ref> That is possibly confirmed by observations that simplification of the case endings occurred earliest in the north, and latest in the southwest. The spread of [[phrasal verb]]s in English is another grammatical development to which Norse may have contributed, although here a possible [[Celtic languages|Celtic]] influence is also noted.<ref name="CHEL320" />
+
+Some scholars have claimed that Old English died out entirely and was replaced by Norse towards the end of the Old English period and as part of the transition to Middle English, by virtue of the Middle English syntax being much more akin to Norse than Old English.<ref>Faarlund, Jan Terje, and Joseph E. Emonds. "English as North Germanic". Language Dynamics and Change 6.1 (2016): 1–17. https://doi.org/10.1163/22105832-00601002</ref> Other scholars reject this claim.<ref>{{Cite journal|title=English is (still) a West Germanic language|first1=Kristin|last1=Bech|first2=George|last2=Walkden|date=May 15, 2016|journal=Nordic Journal of Linguistics|volume=39|issue=1|pages=65–100|doi=10.1017/S0332586515000219|s2cid=146920677 |doi-access=free}}</ref>
+
+==Middle English==
+{{Main|Middle English|Influence of French on English}}
+
+[[File:Wife-of-Bath-ms.jpg|thumb|The opening prologue of "[[The Wife of Bath's Tale]]" from ''[[The Canterbury Tales]]'']]
+[[Middle English]] is the forms of English spoken roughly from the time of the [[Norman Conquest]] in 1066 until the end of the 15th century.
+
+For centuries after the Conquest, the Norman kings and high-ranking nobles in England and to some extent elsewhere in the British Isles spoke [[Anglo-Norman language|Anglo-Norman]], a variety of [[Old Norman]], originating from a northern [[langues d'oïl|langue d'oïl]] dialect. Merchants and lower-ranked nobles were often bilingual in Anglo-Norman and English, whilst English continued to be the language of the common people. Middle English was influenced by both Anglo-Norman, and later Anglo-French. See [[Anglo-Norman language#Characteristics|characteristics of the Anglo-Norman language]].
+
+[[File:Origins of English PieChart.svg|thumb|200px|The percentage of modern English words derived from each language group:<br>[[Anglo-Norman language|Anglo-Norman French]], then [[French language|French]]: ~29%<br>[[Latin]], including words used only in scientific, medical or legal contexts: ~29%<br>[[Germanic languages|Germanic]]: ~26%<br>Others: ~16%]]
+Until the 14th century, Anglo-Norman and then French were the language of the courts and government. Even after the decline of Norman, standard French retained the status of a formal or [[prestige (sociolinguistics)|prestige language]]. About 10,000 French and Norman loan words entered Middle English, particularly terms associated with government, church, law, the military, fashion, and food.<ref>Baugh, Albert and Cable, Thomas. 2002. ''The History of the English Language''. Upper Saddle River, New Jersey: Prentice Hall. pp. 158–178.</ref> See [[English language#Word origins|English language word origins]] and [[List of English words of French origin]]. 
+
+Although English is a Germanic language, it has a deep connection to [[Romance languages]]. The roots of this connection trace back to the Conquest of England by the Normans in 1066. The Normans spoke a dialect of Old French, and the commingling of Norman French and Old English resulted in Middle English, a language that reflects aspects of both Germanic and Romance languages and evolved into the English we speak today, where nearly 60% of the words are from Latin & Romance languages like French. 
+
+The strong influence of [[Old Norse]] on English becomes apparent during this period. The impact of the native [[British Celtic languages]] that English continued to displace is generally held to be very small, although a few scholars have attributed some grammatical forms, such as [[periphrasis|periphrastic]] "do", to Celtic influence.<ref>Filppula, Markku, Juhani Klemola and Heli Pitkänen (eds.). 2002. ''The Celtic Roots of English.'' Joensuu: University of Joensuu, Faculty of Humanities.</ref><ref>David L. White ''On the Areal Pattern of 'Brittonicity' in English and Its Implications'' in Hildegard L. C. Tristram (ed.). 2006. ''The Celtic Englishes IV – The Interface Between English and the Celtic Languages''. Potsdam: University of Potsdam</ref> [[Brittonicisms in English|These theories]] have been criticized by a number of other linguists.<ref>{{Citation|last=Coates|first=Richard|title=Reviewed Work: ''English and Celtic in Contact''|year=2010}}</ref><ref>Robert McColl Millar, "English in the 'transition period': the sources of contact-induced change," in ''Contact: The Interaction of Closely-Related Linguistic Varieties and the History of English'', Edinburgh University Press (2016)</ref><ref>John Insley, "Britons and Anglo-Saxons," in ''Kulturelle Integration und Personnenamen in Mittelalter'', De Gruyter (2018)</ref> Some scholars have also put forward [[Middle English creole hypothesis|hypotheses that Middle English was a kind of creole]] language resulting from contact between Old English and either Old Norse or Anglo-Norman.
+
+English literature began to reappear after 1200, when a changing political climate and the decline in [[Anglo-Norman language|Anglo-Norman]] made it more respectable. The [[Provisions of Oxford]], released in 1258, was the first English government document to be published in the English language after the [[Norman Conquest]]. In 1362, [[Edward III of England|Edward III]] became the first king to address Parliament in English. The [[Pleading in English Act 1362]] made English the only language in which court proceedings could be held, though the official record remained in Latin.<ref>''La langue française et la mondialisation'', Yves Montenay, Les Belles lettres, Paris, 2005</ref> By the end of the century, the royal court had switched to English. Anglo-Norman remained in use in limited circles somewhat longer, but it had ceased to be a living language. Official documents began to be produced regularly in English during the 15th century. [[Geoffrey Chaucer]], who lived in the late 14th century, is the most famous writer from the Middle English period, and ''[[The Canterbury Tales]]'' is his best-known work.
+
+The English language changed enormously during the Middle English period, in vocabulary, in pronunciation, and in grammar. While Old English is a heavily [[inflected language]] ([[synthetic language|synthetic]]), the use of [[grammatical case|grammatical endings]] diminished in Middle English ([[analytic language|analytic]]). Grammar distinctions were lost as many noun and adjective endings were [[morphological leveling|levelled]] to ''-e''. The older [[English plural|plural noun]] marker ''-en'', retained in a few cases such as ''children'' and ''oxen'', largely gave way to ''-s''. [[Grammatical gender]] was discarded. Definite article ''þe'' appears around 1200, later spelled as ''the'', first appearing in East and North England as a substitute for Old English ''se'' and ''seo'', nominative forms of "that."<ref>{{Cite book|title=A Biography of the English Language|last=Millward|first=C. M.|publisher=Harcourt Brace Jovanovich|year=1989|pages=147}}</ref>
+
+[[English orthography|English spelling]] was also influenced by Norman in this period, with the {{IPA|/θ/}} and {{IPA|/ð/}} sounds being spelled ''th'', rather than with the Old English letters [[thorn (letter)|þ (thorn)]] and [[eth|ð (eth)]], which did not exist in Norman. These letters remain in the modern [[Icelandic orthography|Icelandic]] and [[Faroese orthography|Faroese alphabets]], having been borrowed from Old English via [[Old West Norse]].
+
+==Early Modern English==
+{{Main|Early Modern English}}
+English underwent extensive sound changes during the 15th century, while its spelling conventions remained largely constant. [[Modern English]] is often dated from the [[Great Vowel Shift]], which took place mainly during the 15th century. The language was further transformed by the spread of a standardized London-based dialect in government and administration and by the standardizing effect of printing, which also tended to regularize [[Capitalization in English|capitalization]]. As a result, the language acquired self-conscious terms such as "accent" and "dialect".<ref>Crystal, David. 2004. ''The Stories of English''. London: Penguin. pp. 341–343.</ref> As most [[History of printing#European movable type (1439)|early presses]] came from continental Europe, a few native English letters such as þ and ð died out. For some time ''þe'' (modern "the") was written as ''ye.'' By the time of [[William Shakespeare]] (mid 16th – early 17th century),<ref>See [[Fausto Cercignani]], ''Shakespeare's Works and Elizabethan Pronunciation'', Oxford, Clarendon Press, 1981.</ref> the language had become clearly recognizable as Modern English. In 1604, the first English dictionary was published, ''[[Table Alphabeticall|A Table Alphabeticall]]''.
+
+Increased literacy and travel facilitated the adoption of many foreign words, especially borrowings from [[Latin]] and [[Greek language|Greek]], often terms for abstract concepts not available in English.<ref>{{cite journal |last1=Franklin |first1=James |date=1983 |title=Mental furniture from the philosophers |url=http://www.maths.unsw.edu.au/~jim/mental.pdf |journal=Et Cetera |volume=40 |issue= |pages=177–191 |doi= |access-date=29 June 2021}}</ref> In the 17th century, Latin words were often used with their original inflections, but these eventually disappeared. As there are many words from different languages and English spelling is variable, the risk of [[mispronunciation]] is high, but remnants of the older forms remain in a few regional dialects, most notably in the [[West Country dialects|West Country]]. During the period, loan words were borrowed from Italian, German, and Yiddish. British acceptance of and resistance to [[American English|Americanisms]] began during this period.<ref>Algeo, John. 2010. ''The Origins and Development of the English Language''. Boston, MA: Wadsworth. pp. 140–141.</ref>
+
+==Modern English==
+[[File:JohnsonDictionary.png|thumb|The title page from the second edition of the first ''[[A Dictionary of the English Language|Dictionary of the English Language]]'', 1755]]
+{{Main|Modern English}}
+The first authoritative and full-featured English dictionary, the ''[[Dictionary of the English Language]]'', was published by [[Samuel Johnson]] in 1755. To a high degree, the dictionary standardized both English spelling and word usage. Meanwhile, grammar texts by [[Robert Lowth|Lowth]], [[Lindley Murray|Murray]], [[Joseph Priestly|Priestly]], and others attempted to prescribe standard usage even further.
+
+Early Modern English and Late Modern English, also called Present-Day English (PDE), differ essentially in vocabulary. Late Modern English has many more words, arising from the [[Industrial Revolution]] and technologies that created a need for new words, as well as international development of the language. The [[British Empire]] at its height covered one quarter of the Earth's land surface, and the English language adopted foreign words from many countries. British English and North American English, the two major varieties of the language, are together spoken by 400 million people. The total number of English speakers worldwide may exceed one billion.<ref>Algeo, John. 2010. ''The Origins and Development of the English Language''. Boston, MA: Wadsworth. pp. 182–187.</ref> There have been attempts to predict future English evolution, though they have been met with skepticism.<ref>{{Cite journal |last=Jansen |first=Sandra |date=March 2018 |title=Predicting the future of English: Considerations when engaging with the public |url=https://www.cambridge.org/core/product/identifier/S026607841700027X/type/journal_article |journal=English Today |language=en |volume=34 |issue=1 |pages=52–55 |doi=10.1017/S026607841700027X |issn=0266-0784|url-access=subscription }}</ref>
+
+==Phonological changes==
+{{Main|Phonological history of English}}
+{{IPA notice|section}}
+{{urs|date=April 2026}}
+
+===Introduction===
+Over the last 1,200 years or so, English has undergone extensive changes in its vowel system, but many fewer changes to its consonants.
+
+In the [[Old English]] period, a number of [[umlaut (linguistics)|umlaut]] processes affected vowels in complex ways. Unstressed vowels were gradually eroded, eventually leading to a loss of [[grammatical case]] and [[grammatical gender]] in the Early Middle English period. The most important umlaut process was *[[Germanic umlaut#I-mutation in Old English|i-mutation]], which led to pervasive alternations of all sorts, many of which survive in the modern language: e.g. in noun paradigms (''foot'' vs. ''feet'', ''mouse'' vs. ''mice'', ''brother'' vs. ''brethren''); in verb paradigms (''sold'' vs. ''sell''); nominal derivatives from adjectives ("strong" vs. "strength", ''broad'' vs. ''breadth'', ''foul'' vs. ''filth'') and from other nouns (''fox'' vs. "vixen"); verbal derivatives ("food" vs. "to feed"); and comparative adjectives ("old" vs. "elder"). Consonants were more stable, although [[velar consonant]]s were significantly modified by [[Old English phonology#Distribution of velars and palatals|palatalization]], which produced alternations such as ''speak'' vs. ''speech'', ''drink'' vs. ''drench'', ''wake'' vs. ''watch'', ''bake'' vs. ''batch''.<ref>{{cite journal |last=Kijak |first=Artur |title=What do Affrication and Vowel Unrounding Have in Common? The Case of Velar Palatalization in Old English |journal=Studia Anglica Posnaniensia |volume=57 |issue=1 |pages=315–336 |date=4 March 2023 |doi=10.14746/stap.2022.57.13}}</ref>
+
+The [[Middle English]] period saw further vowel changes. Most significant was the [[Great Vowel Shift]], c. 1500 CE, which transformed the pronunciation of all long vowels.<ref>{{cite book |editor1-last=Nevalainen |editor1-first=Terttu |editor2-last=Traugott |editor2-first=Elizabeth Closs |title=The Oxford Handbook of the History of English |publisher=Oxford University Press |date=2012 |doi=10.1093/oxfordhb/9780199922765.001.0001 |isbn=9780199922765}}</ref><ref>{{Cite book |last=Brinton |first=Laurel |title=English Historical Linguistics |last2=Bergs |first2=Alexander |date=May 18, 2012 |publisher=De Gruyter Mouton |isbn=9783110202205 |volume=1 |pages=595-596 |language=English}}</ref> This occurred after the spelling system was fixed, and accounts for the drastic differences in pronunciation between "short" ''mat, met, bit, cot'' vs. "long" ''mate, mete/meet, bite, coat''. Other changes that left echoes in the modern language were [[Middle English phonology#Homorganic lengthening|homorganic lengthening]] before ''ld'', ''mb'', ''nd'', which accounts for the long vowels in ''child'', ''mind'', ''climb'', etc.; [[Middle English phonology#Pre-cluster shortening|pre-cluster shortening]], which resulted in the vowel alternations in ''child'' vs. ''children'', ''keep'' vs. ''kept'', ''meet'' vs. ''met''; and [[trisyllabic laxing]], which is responsible for alternations such as ''grateful'' vs. ''gratitude'', ''divine'' vs. ''divinity'', ''sole'' vs. ''solitary''.<ref>{{cite encyclopedia |last=Minkova |first=Donka |title=Old and Middle English Phonology |encyclopedia=Oxford Research Encyclopedia of Linguistics |date=23 May 2019 |doi=10.1093/acrefore/9780199384655.013.266}}</ref>
+
+Among the more significant recent changes to the language have been the development of [[rhotic and non-rhotic accents]] (i.e. "r-dropping") and the [[trap-bath split]] in many dialects of [[British English]].<ref>{{cite book |last=Hickey |first=Raymond |title=A Dictionary of Varieties of English |publisher=Wiley-Blackwell |year=2014 |isbn=9780470656419 |doi=10.1002/9781118602607}}</ref><ref>{{cite journal |last1=Blaxter |first1=Tam |last2=Coates |first2=Richard |title=The trap–bath split in Bristol English |journal=English Language & Linguistics |volume=24 |issue=2 |pages=269–306 |date=June 2020 |doi=10.1017/S136067431900008X}}</ref>
+
+===Vowel changes===
+{{outdated section|date=April 2026|reason=information is largely based on an outdated German source}}
+The following table shows the principal developments in the stressed vowels, from Old English through Modern English. ''C'' indicates any consonant:
+
+{| class="wikitable" style="text-align: center;"
+! Old English<br />({{circa|900 AD}}) !! Middle English<br />({{circa|1400 AD}}) !! Early Modern English<br />({{circa|1600 AD}}) !! Modern English || Modern spelling || Examples
+
+|-
+| {{IPA|ɑː}} || {{IPA|ɔː}} || {{IPA|oː}} || {{IPA|oʊ}} <br />{{IPA|əʊ}} (UK) || ''oa, oCe''|| '''''oa'''k, b'''oa'''t, wh'''o'''l'''e''', st'''o'''n'''e'''''
+|-
+| {{IPA|æː, æːɑ}} || {{IPA|ɛː}} || {{IPA|eː}} || rowspan=2|{{IPA|iː}} || ''ea''|| ''h'''ea'''l, b'''ea'''t, ch'''ea'''p''
+|-
+| {{IPA|eː, eːo}} || {{IPA|eː}} || {{IPA|iː}} || ''ee, -e''|| ''f'''ee'''d, d'''ee'''p, m'''e''', b'''e'''''
+|-
+| {{IPA|iː, yː}} || {{IPA|iː}} || {{IPA|əi}} {{small|or}} {{IPA|ɛi}} || {{IPA|aɪ}} || ''iCe''|| ''r'''i'''d'''e''', t'''i'''m'''e''', m'''i'''c'''e'''''
+|-
+| {{IPA|oː}} || {{IPA|oː}} || {{IPA|uː}} || {{IPA|uː}} || ''oo, -o''|| ''m'''oo'''n, f'''oo'''d, d'''o'''''
+|-
+| {{IPA|uː}} || {{IPA|uː}} || {{IPA|əu}} {{small|or}} {{IPA|ɔu}} || {{IPA|aʊ}} || ''ou''|| ''m'''ou'''se, '''ou'''t, l'''ou'''d''
+|-
+| rowspan=2|{{IPA|ɑ, æ, æɑ}} || {{IPA|a}} || {{IPA|æ}} || {{IPA|æ}} || ''a''|| ''m'''a'''n, s'''a'''t, w'''a'''x''
+|-
+| {{IPA|aː}} || {{IPA|ɛː}} || {{IPA|eɪ}} || ''aCe''|| ''n'''a'''m'''e''', b'''a'''k'''e''', r'''a'''v'''e'''n''
+|-
+| rowspan=2|{{IPA|e, eo}} || {{IPA|e}} || {{IPA|ɛ}} || {{IPA|ɛ}} || ''e''|| ''h'''e'''lp, t'''e'''ll, s'''e'''ven''
+|-
+| {{IPA|ɛː}} || {{IPA|eː}} || {{IPA|iː}} || ''ea, eCe''|| ''sp'''ea'''k, m'''ea'''t, m'''e'''t'''e'''''
+|-
+| {{IPA|i, y}} || {{IPA|ɪ}} || {{IPA|ɪ}} || {{IPA|ɪ}} || ''i''|| ''wr'''i'''tten, s'''i'''t, k'''i'''ss''
+|-
+| rowspan=2|{{IPA|o}} || {{IPA|o}} || {{IPA|ɔ}} || {{IPA|ɒ}} <br />{{IPA|ɑ}} (US) || ''o''|| ''g'''o'''d, t'''o'''p, bey'''o'''nd''
+|-
+| {{IPA|ɔː}} || {{IPA|oː}} || {{IPA|oʊ}} <br />{{IPA|əʊ}} (UK) || ''oa, oCe''|| ''f'''oa'''l, n'''o'''s'''e''', '''o'''ver''
+|-
+| rowspan=2|{{IPA|u}} || rowspan=2|{{IPA|ʊ}} || {{IPA|ɤ}} || {{IPA|ʌ}} || rowspan=2|''u, o''|| ''b'''u'''ck, '''u'''p, l'''o'''ve, w'''o'''nder''
+|-
+| {{IPA|ʊ}} || {{IPA|ʊ}} || ''f'''u'''ll, b'''u'''ll''
+|}
+
+The following chart shows the primary developments of English vowels in the last 600 years, in more detail, since [[Late Middle English]] of [[Chaucer]]'s time. The [[Great Vowel Shift]] can be seen in the dramatic developments from {{circa|1400}} to 1600.
+
+[[File:Great Vowel Shift.svg|700px|class=skin-invert-image]]
+
+Neither of the above tables covers the [[Middle English phonology#diphthongs-historical|history of Middle English diphthongs]], the changes before /r/, or various special cases and exceptions. For details, see [[phonological history of English]] as well as the articles on [[Old English phonology]] and [[Middle English phonology]].
+
+===Examples===
+The vowel changes over time can be seen in the following example words, showing the changes in their form over the last 2,000 years:
+
+{| class="wikitable"
+|-
+! !! one !! two !! three !! four !! five !! six !! seven !! mother !! heart !! hear
+|-
+| '''Proto-Germanic''', {{circa|AD 1}} || {{IPA|ainaz}} || rowspan="2" | {{IPA|twai}} || {{IPA|θriːz}} || {{IPA|feðwoːr}} || rowspan="2" | {{IPA|fimf}} || rowspan="2" | {{IPA|sehs}} || rowspan="2" | {{IPA|seβun}} || {{IPA|moːðeːr}} || {{IPA|hertoːː}} || {{IPA|hauzijanã}}
+|-ish
+| '''West Germanic''', {{circa|AD 400}} || {{IPA|ain}} || {{IPA|θriju}} || {{IPA|fewwur}} || {{IPA|moːdar}} || {{IPA|herta}} || {{IPA|haurijan}}
+|-
+| '''Late Old English''', {{circa|AD 900}} || {{IPA|aːn}} || {{IPA|twaː}} || {{IPA|θreo}} || {{IPA|feowor}} || {{IPA|fiːf}} || {{IPA|siks}} || {{IPA|sĕŏvon}} || {{IPA|moːdor}} || {{IPA|hĕŏrte}} || {{IPA|heːran, hyːran}}
+|-
+| '''(Late Old English spelling)''' || ''(ān)'' || ''(twā)'' || ''(þrēo)'' || ''(fēowor)'' || ''(fīf)'' || ''(six)'' || ''(seofon)'' || ''(mōdor)'' || ''(heorte)'' || ''(hēran, hȳran)''
+|-
+| '''Late Middle English''', {{circa|1350}} || {{IPA|ɔːn}} || {{IPA|twoː}} || {{IPA|θreː}} || {{IPA|fowər}} || {{IPA|fiːvə}} || {{IPA|siks}} || {{IPA|sevən}} || {{IPA|moːðər}} || {{IPA|hertə}} || {{IPA|hɛːrə(n)}}
+|-
+| '''(Late Middle English spelling)''' || ''(oon)'' || ''(two)'' || ''(three)'' || ''(fower)'' || ''(five)'' || ''(six)'' || ''(seven)'' || ''(mother)'' || ''(herte)'' || ''(heere(n))''
+|-
+| '''Early Modern English''', {{circa|1600}} || {{IPA|oːn}} >! {{IPA|wʊn}} || {{IPA|twuː}} > {{IPA|tuː}} || rowspan="2" | {{IPA|θriː}} || {{IPA|foːr}} || {{IPA|fəiv}} || {{IPA|siks}} || rowspan="2" | {{IPA|sevən}} || {{IPA|mʊðər}} || {{IPA|hert}} || {{IPA|heːr}}
+|-
+| '''Modern English''', {{circa|2000}} || {{IPA|wʌn}} || {{IPA|tuː}} || {{IPA|fɔː(r)}} || {{IPA|faiv}} || {{IPA|sɪks}} || {{IPA|mʌðə(r)}} || {{IPA|hɑrt}}/{{IPA|hɑːt}} || {{IPA|hiːr/hiə}}
+|-
+! !! one !! two !! three !! four !! five !! six !! seven !! mother !! heart !! hear
+|-
+|}
+
+==Grammatical changes==
+{{more citations needed|section|date=April 2026}}
+The [[English language]] once had an extensive [[declension]] system similar to [[Latin]], [[Greek language|Greek]], modern [[German language|German]] and [[Icelandic language|Icelandic]]. [[Old English language|Old English]] distinguished among the [[nominative case|nominative]], [[accusative case|accusative]], [[dative case|dative]], and [[genitive case|genitive]] cases, and for strongly declined adjectives and some pronouns also a separate [[instrumental case]] (which otherwise and later completely coincided with the dative). The [[dual (grammatical number)|dual number]] was distinguished from the singular and plural.<ref>{{cite web|author=Peter S. Baker |url=http://www.wmich.edu/medieval/resources/IOE/inflpron.html |title=Pronouns |work=The Electronic Introduction to Old English |publisher=Oxford: [[Wiley-Blackwell|Blackwell]] |year=2003 |url-status=dead |archive-url=https://web.archive.org/web/20150911000749/http://www.wmich.edu/medieval/resources/IOE/inflpron.html |archive-date=September 11, 2015 }}</ref>
+Declension was greatly simplified during the [[Middle English]] period, when the [[accusative case|accusative]] and [[dative case|dative]] cases of the pronouns merged into a single [[oblique case]], that also replaced the genitive case after prepositions. Nouns in Modern English no longer decline for case, except for the [[genitive]].
+
+===Evolution of English pronouns===
+Pronouns such as ''whom'' and ''him'', contrasted with ''who'' and ''he'', are a conflation of the old accusative and dative cases, as well as of the genitive case after prepositions, while ''her'' also includes the genitive case. This conflated form is called the ''[[oblique case]]'' or the ''object (objective) case'', because it is used for objects of verbs (direct, indirect, or oblique) as well as for objects of prepositions. See [[object pronoun]]. The information formerly conveyed by distinct case forms is now mostly provided by [[preposition]]s and word order. In Old English, as well as modern [[German language|German]] and [[Icelandic language|Icelandic]] as further examples, these cases have distinct forms.
+
+Although some grammarians continue to use the traditional terms "accusative" and "dative", these are functions rather than morphological cases in Modern English. That is, the form ''whom'' may play accusative or dative roles, as well as instrumental or prepositional roles, but it is a single [[morphology (linguistics)|morphological]] form, contrasting with nominative ''who'' and genitive ''whose''. Many grammarians use the labels "subjective", "objective", and "possessive" for nominative, oblique, and genitive pronouns.
+
+Modern English nouns exhibit only one inflection of the reference form: the [[possessive case]], which some linguists argue is not a case at all, but a [[clitic]]. See the entry for [[genitive case]] for more information.
+
+====Interrogative pronouns====
+
+{| class="wikitable"
+! !! Case !! [[Old English language|Old English]] !! [[Middle English]] !! [[Modern English]]
+|-
+! rowspan="5" | Masculine,<br />feminine<br />(person)
+! [[Nominative case|Nominative]]
+| hwā || who || who
+|-
+! [[Accusative case|Accusative]]
+| hwone, hwæne || rowspan="2" | whom || rowspan="2" | whom, who<sup>1</sup>
+|-
+! [[Dative case|Dative]]
+| hwām, hwǣm
+|-
+! [[Instrumental case|Instrumental]]
+| || || 
+|-
+! [[Genitive case|Genitive]]
+| hwæs || whos || whose
+|- style="border-top:2px solid;"
+! rowspan="5" | Neuter<br />(thing)
+! [[Nominative case|Nominative]]
+| hwæt || what || rowspan="3" | what
+|-
+! [[Accusative case|Accusative]]
+| hwæt || rowspan="2" | what, whom
+|-
+! [[Dative case|Dative]]
+| hwām, hwǣm
+|-
+! [[Instrumental case|Instrumental]]
+| hwȳ, hwon || why || why<sup>2</sup>
+|-
+! [[Genitive case|Genitive]]
+| hwæs || whos || whose<sup>3</sup>
+|}
+
+<small><sup>1</sup> – In some dialects "who" is used where formal English only allows "whom", though variation among dialects must be taken into account.</small>
+
+<small><sup>2</sup> – An explanation may be found in the last paragraph of [[Instrumental case#General discussion|this section of Instrumental case]].</small>
+
+<small><sup>3</sup> – Usually replaced by ''of what'' (postpositioned).</small>
+
+====First person personal pronouns====
+{| class="wikitable"
+! !! Case !! [[Old English language|Old English]] !! [[Middle English]] !! [[Modern English]]
+|-
+! rowspan="4" | Singular
+! [[Nominative case|Nominative]]
+| iċ || I, ich, ik || I
+|-
+! [[Accusative case|Accusative]]
+| mē, meċ || rowspan="2" | me || rowspan="2" | me
+|-
+! [[Dative case|Dative]]
+| mē
+|-
+! [[Genitive case|Genitive]]
+| mīn || min, mi || my, mine
+|- style="border-top:2px solid;"
+! rowspan="4" | Plural
+! [[Nominative case|Nominative]]
+| wē || we || we<sup>1</sup>
+|-
+! [[Accusative case|Accusative]]
+| ūs, ūsiċ || rowspan="2" | us || rowspan="2" | us
+|-
+! [[Dative case|Dative]]
+| ūs
+|-
+! [[Genitive case|Genitive]]
+| ūser, ūre || ure, our || our, ours
+|}
+<small><sup>1</sup> – Old English also had a separate [[dual (grammatical number)|dual]], ''wit'' ("we two") et cetera; however, no later forms derive from it.</small>
+
+====Second person personal pronouns====
+{| class="wikitable"
+|+ Old and Middle English singular to the Modern English archaic informal
+! !! Case !! [[Old English language|Old English]] !! [[Middle English]] !! [[Modern English]]
+|-
+! rowspan="4" | Singular
+! [[Nominative case|Nominative]]
+| þū || þu, thou || thou (you)
+|-
+! [[Accusative case|Accusative]]
+| þē, þeċ || rowspan="2" | þé, thee || rowspan="2" | thee (you)
+|-
+! [[Dative case|Dative]]
+| þē
+|-
+! [[Genitive case|Genitive]]
+| þīn || þi, þīn, þīne, thy; thin, thine || thy, thine (your, yours)
+|- style="border-top:2px solid;"
+! rowspan="4" | Plural
+! [[Nominative case|Nominative]]
+| ġē || ye, ȝe, you || rowspan="3" | you<sup>1</sup>
+|-
+! [[Accusative case|Accusative]]
+| ēow, ēowiċ || rowspan="2" | you, ya
+|-
+! [[Dative case|Dative]]
+| ēow
+|-
+! [[Genitive case|Genitive]]
+| ēower || your || your, yours
+|-
+|}
+
+<sup>1</sup> – <small>Note that the ye/you distinction still existed, at least optionally, in Early Modern English: "Ye shall know the truth and the truth shall make you free" from the [[King James Bible]].</small>
+
+Here the letter [[thorn (letter)|þ]] (interchangeable with [[Eth|ð]] in manuscripts) corresponds to ''th''. For ȝ, see [[Yogh]].
+
+{| class="wikitable"
+|+ Formal and informal forms of the second person singular and plural
+! rowspan="2" |
+! colspan="4" |[[Old English language|Old English]]
+! colspan="4" | [[Middle English]]
+! colspan="4" | [[Modern English]]
+|-
+! colspan="2" | Singular
+! colspan="2" | Plural
+! colspan="2" | Singular
+! colspan="2" | Plural
+! colspan="2" | Singular
+! colspan="2" | Plural
+|-
+! Case
+! Formal
+! Informal
+! Formal
+! Informal
+! Formal
+! Informal
+! Formal
+! Informal
+! Formal
+! Informal
+! Formal
+! Informal
+|-
+! [[Nominative case|Nominative]]
+| colspan="2" | þū || colspan="2" | ġē<sup>1</sup> || rowspan="3" | you || thou || rowspan="3" | you || ye || ="4" rowspan="4" | you
+|-
+! [[Accusative case|Accusative]]
+| colspan="2" | þē, þeċ || colspan="2" | ēow, ēowiċ || rowspan="2" | thee || rowspan="2" | you
+|-
+! [[Dative case|Dative]]
+| colspan="2" | þē || colspan="2" | ēow
+|-
+! [[Genitive case|Genitive]]
+| colspan="2" | þīn || colspan="2" | ēower || your, yours || thy, thine || colspan="3" | your, yours || colspan="4" | your, yours
+|-
+|}
+<sup>1</sup> – <small>(Old English also had a separate [[dual (grammatical number)|dual]], ġit ("ye two") etcetera; however, no later forms derive from it.)</small>
+
+====Third person personal pronouns====
+{| class="wikitable"
+! !! Case !! [[Old English language|Old English]] !! [[Middle English]] !! [[Modern English]]
+|-
+! rowspan="4" | Masculine singular
+! [[Nominative case|Nominative]]
+| hē || he || he
+|-
+! [[Accusative case|Accusative]]
+| hine || rowspan="2" | him || rowspan="2" | him
+|-
+! [[Dative case|Dative]]
+| him
+|-
+! [[Genitive case|Genitive]]
+| his || his || his
+|- style="border-top:2px solid;"
+! rowspan="4" | Feminine singular
+! [[Nominative case|Nominative]]
+| hēo || heo, sche, ho, he, ȝho || she
+|-
+! [[Accusative case|Accusative]]
+| hīe || rowspan="2" | hire, hure, her, heore || rowspan="2" | her
+|-
+! [[Dative case|Dative]]
+| rowspan="2" | hire
+|-
+! [[Genitive case|Genitive]]
+| hir, hire, heore, her, here || her, hers
+|- style="border-top:2px solid;"
+! rowspan="4" | Neuter singular
+! [[Nominative case|Nominative]]
+| rowspan="2" | hit || hit, it || it, [[Singular they|they]]
+|-
+! [[Accusative case|Accusative]]
+| rowspan="2" | hit, it, him || rowspan="2" | it, them
+|-
+! [[Dative case|Dative]]
+| him
+|-
+! [[Genitive case|Genitive]]
+| his || his || its, their
+|- style="border-top:3px solid;"
+! rowspan="4" |Plural<sup>1</sup>
+! [[Nominative case|Nominative]]
+| rowspan="2" | hīe || he, hi, ho, hie, þai, þei || they
+|-
+! [[Accusative case|Accusative]]
+| rowspan="2" | hem, ham, heom, þaim, þem, þam || rowspan="2" | them
+|-
+! [[Dative case|Dative]]
+| him
+|-
+! [[Genitive case|Genitive]]
+| hira || here, heore, hore, þair, þar || their, theirs
+|}
+
+<sup>1</sup><small> – The origin of the modern forms is generally thought to have been a borrowing from [[Old Norse]] forms þæir, þæim, þæira. The two different roots co-existed for some time, although currently the only common remnant is the shortened form ''<nowiki>'</nowiki>em''. Cf. also the demonstrative pronouns.</small>
+
+==Examples==
+[[File:Old English Dialects.png|thumb|The dialects of Old English c. 800 CE]]
+
+===''Beowulf''===
+''[[Beowulf]]'' is an Old English [[epic poetry|epic poem]] in [[alliterative verse]]. It is dated from the 8th to the early 11th centuries. These are the first 11 lines:
+
+<blockquote>
+{| class="latinx"
+|{{tooltip|2=what|Hwæt}}! Wē {{tooltip|2=of Spear-Danes (modifies þrym)|Gār-Dena}}
+|in {{tooltip|2=yore-days|geārdagum}},
+|-
+|{{tooltip|2=of people-kings (modifies þrym, in apposition to Gar-Dēna)|þēodcyninga}}
+|{{tooltip|2=glory (obj of gefrūnon)|þrym}} {{tooltip|2=have heard of|gefrūnon}},
+|-
+|{{tooltip|2=how|hū}} {{tooltip|2=the nobles, subj of fremedon|ðā æþelingas}}
+|{{tooltip|2=zeal, strength, courage, obj of fremedon|ellen}} {{tooltip|2=did|fremedon}}.
+|-
+|Oft {{tooltip|2=name of legendary Danish king (subj of oftēah and egsode)|Scyld Scēfing}}
+|{{tooltip|2=of enemies (modifies þrēatum)|sceaþena}} {{tooltip|2=from armies (ind obj of oftēah)|þrēatum}},
+|-
+|{{tooltip|2=many|monegum}} {{tooltip|2=from tribes (ind obj of oftēah, in apposition to þrēatum)|mǣgþum}},
+|{{tooltip|2=of mead-seats (obj of oftēah)|meodosetla}} {{tooltip|2=deprived|oftēah}},
+|-
+|{{tooltip|2=frightened|egsode}} {{tooltip|2=earls (obj of egsode)|eorlas}}.
+|{{tooltip|2=since|Syððan}} {{tooltip|2=first|ǣrest}} {{tooltip|2=was (passive construction with funden)|wearð}}
+|-
+|{{tooltip|2=destitute|fēasceaft}} {{tooltip|2=found|funden}},
+|hē {{tooltip|2=the consolation (obj of gebād)|þæs frōfre}} {{tooltip|2=waited for|gebād}},
+|-
+|{{tooltip|2=grew|wēox}} under {{tooltip|2=clouds|wolcnum}},
+|{{tooltip|2=honors (obj of þāh)|weorðmyndum}} {{tooltip|2=prospered|þāh}},
+|-
+|{{tooltip|2=until|oðþæt}} him {{tooltip|2=everyone (subj of hȳran scolde and gyldan)|ǣghwylc}}
+|{{tooltip|2=of the surrounding (modifies ǣghwylc)|þāra ymbsittendra}}
+|-
+|{{tooltip|2=over the whale-road|ofer hronrāde}}
+|{{tooltip|2=had to obey|hȳran scolde}},
+|-
+|{{tooltip|2=tribute (obj of gyldan)|gomban}} {{tooltip|2=yield|gyldan}}.
+|Þæt wæs {{tooltip|2=good|gōd}} {{tooltip|2=king|cyning}}!
+|}
+</blockquote>
+
+Which, as translated by [[Francis Barton Gummere]], reads:
+
+<blockquote>
+<poem>
+Lo, praise of the prowess of people-kings
+of spear-armed Danes, in days long sped,
+we have heard, and what honor the athelings won!
+Oft Scyld the Scefing from squadroned foes,
+from many a tribe, the mead-bench tore,
+awing the earls. Since erst he lay
+friendless, a foundling, fate repaid him:
+for he waxed under welkin, in wealth he throve,
+till before him the folk, both far and near,
+who house by the whale-path, heard his mandate,
+gave him gifts: a good king he!
+</poem>
+</blockquote>
+
+===''Voyages of Ohthere and Wulfstan''===
+This is the beginning of ''The Voyages of Ohthere and Wulfstan'', a prose text in Old English dated to the late 9th century. The full text can be found at [[s:Bright's Anglo-Saxon Reader/The Voyages of Ohthere and Wulfstan|Wikisource]].
+
+{|
+||'''Original:'''<br> 
+''Ōhthere sǣde his hlāforde, Ælfrēde cyninge, ðæt hē ealra Norðmonna norþmest būde. Hē cwæð þæt hē būde on þǣm lande norþweardum wiþ þā Westsǣ. Hē sǣde þēah þæt þæt land sīe swīþe lang norþ þonan; ac hit is eal wēste, būton on fēawum stōwum styccemǣlum wīciað Finnas, on huntoðe on wintra, ond on sumera on fiscaþe be þǣre sǣ. Hē sǣde þæt hē æt sumum cirre wolde fandian hū longe þæt land norþryhte lǣge, oþþe hwæðer ǣnig mon be norðan þǣm wēstenne būde. Þā fōr hē norþryhte be þǣm lande: lēt him ealne weg þæt wēste land on ðæt stēorbord, ond þā wīdsǣ on ðæt bæcbord þrīe dagas. Þā wæs hē swā feor norþ swā þā hwælhuntan firrest faraþ. Þā fōr hē þā giet norþryhte swā feor swā hē meahte on þǣm ōþrum þrīm dagum gesiglau. Þā bēag þæt land, þǣr ēastryhte, oþþe sēo sǣ in on ðæt lond, hē nysse hwæðer, būton hē wisse ðæt hē ðǣr bād westanwindes ond hwōn norþan, ond siglde ðā ēast be lande swā swā hē meahte on fēower dagum gesiglan. Þā sceolde hē ðǣr bīdan ryhtnorþanwindes, for ðǣm þæt land bēag þǣr sūþryhte, oþþe sēo sǣ in on ðæt land, hē nysse hwæþer. Þā siglde hē þonan sūðryhte be lande swā swā hē meahte on fīf dagum gesiglan. Ðā læg þǣr ān micel ēa ūp on þæt land. Ðā cirdon hīe ūp in on ðā ēa for þǣm hīe ne dorston forþ bī þǣre ēa siglan for unfriþe; for þǣm ðæt land wæs eall gebūn on ōþre healfe þǣre ēas. Ne mētte hē ǣr nān gebūn land, siþþan hē from his āgnum hām fōr; ac him wæs ealne weg wēste land on þæt stēorbord, būtan fiscerum ond fugelerum ond huntum, ond þæt wǣron eall Finnas; ond him wæs āwīdsǣ on þæt bæcbord. Þā Boermas heafdon sīþe wel gebūd hira land: ac hīe ne dorston þǣr on cuman. Ac þāra Terfinna land wæs eal wēste, būton ðǣr huntan gewīcodon, oþþe fisceras, oþþe fugeleras.''
+||'''A translation:''' <br>
+[[Ohthere from Hålogaland|Ohthere]] said to his lord, [[Alfred the Great|King Alfred]], that he of all Norsemen lived north-most. He quoth that he lived in the land northward along the West Sea. He said though that the land was very long from there, but it is all wasteland, except that in a few places here and there Finns [i.e. [[Sami people|Sami]]] encamp, hunting in winter and in summer fishing by the sea. He said that at some time he wanted to find out how long the land lay northward or whether any man lived north of the wasteland. Then he traveled north by the land. All the way he kept the waste land on his starboard and the wide sea on his port three days. Then he was as far north as whale hunters furthest travel. Then he traveled still north as far as he might sail in another three days. Then the land bowed east (or the sea into the land — he did not know which). But he knew that he waited there for west winds (and somewhat north), and sailed east by the land so as he might sail in four days. Then he had to wait for due-north winds, because the land bowed south (or the sea into the land — he did not know which). Then he sailed from there south by the land so as he might sail in five days. Then a large river lay there up into the land. Then they turned up into the river, because they dared not sail forth past the river for hostility, because the land was all settled on the other side of the river. He had not encountered earlier any settled land since he travelled from his own home, but all the way waste land was on his starboard (except fishers, fowlers and hunters, who were all Finns). And the wide sea was always on his port. The [[Bjarmaland|Bjarmians]] have cultivated their land very well, but they did not dare go in there. But the Terfinn's land was all waste except where hunters encamped, or fishers or fowlers.<ref>Original translation for this article: In this close translation readers should be able to see the correlation with the original.</ref> 
+|}
+
+[[File:Middle English Dialects.png|thumb|The dialects of Middle English {{circa|1300}}]]
+
+===''Ayenbite of Inwyt''===
+From ''[[Ayenbite of Inwyt]]'' ("the prick of conscience"), a translation of a French confessional prose work into the Kentish dialect of Middle English, completed in 1340:<ref>Translation:
+Now I want that you understand how it has come [i.e., happened]<br />
+that this book is written with [the] English of Kent.<br />
+This book is made for unlearned men<br />
+for father, and for mother, and for other kin<br />
+them for to protect [i.e., in order to protect them] from all manner of sin<br />
+[so] that in their conscience [there] not remain no foul wen [i.e., blemish].<br />
+"Who [is] like God?" [the author's name is "Michael", which in Hebrew means "Who is like God?"] in His name said<br />
+that this book made God give him that bread<br />
+of angels of heaven and in addition His council<br />
+and receive his soul when he has died. Amen.</ref>
+
+<blockquote>
+<poem>
+Nou {{tooltip|2=I|ich}} wille þet ye {{tooltip|2=know|ywite}} hou {{tooltip|2=it|hit}} is {{tooltip|2=gone|ywent}}
+þet þis boc is {{tooltip|2=written|ywrite}} {{tooltip|2=with|mid}} Engliss of Kent.
+Þis boc is {{tooltip|2=made|ymad}} vor {{tooltip|2=lay|lewede}} men
+Vor vader and vor moder and vor oþer {{tooltip|2=kin|ken}}
+{{tooltip|2=them|ham}} vor to {{tooltip|2=save, preserve|berȝe}} vram alle manyere {{tooltip|2=sin|zen}}
+þet ine {{tooltip|2=their|hare}} {{tooltip|2=inwit, conscience|inwytte}} ne {{tooltip|2=blive, remain|bleve}} no voul {{tooltip|2=wen, cyst, blemish|wen}}.
+'{{tooltip|2=Who|Huo}} ase god' in his name {{tooltip|2=said|yzed}},
+Þet þis boc made god him {{tooltip|2=give|yeve}} þet bread,
+Of angles of hevene, and þerto his {{tooltip|2=rede, counsel|red}},
+And {{tooltip|2=underfang, receive|ondervonge}} his {{tooltip|2=soul|zaule}} {{tooltip|2=when|huanne}} þet he is {{tooltip|2=dead|dyad}}. Amen.
+</poem>
+</blockquote>
+
+===''The Canterbury Tales''===
+The beginning of ''[[The Canterbury Tales]]'', a collection of stories in poetry and prose written in the London dialect of Middle English by [[Geoffrey Chaucer]], at the end of the 14th century:<ref>Spelling based on ''The Riverside Chaucer'', third edition, Larry D. Benson, gen. ed., Boston: Houghton Mifflin Company, 1987.</ref>
+
+<blockquote>
+<poem>
+Whan that Aprill with his shoures {{tooltip|2=sweet|soote}}
+The droghte of March hath perced to the roote,
+And bathed every veyne in {{tooltip|2=such liquid|swich licour}}
+Of which vertu engendred is the {{tooltip|2=flower|flour}};
+Whan [[Zephyrus|Zephirus]] {{tooltip|2=also (Dutch ook; German auch)|eek}} with his sweete breeth
+Inspired hath in every {{tooltip|2=wood (German ''Holz'')|holt}} and heeth
+The tendre croppes, and the yonge sonne
+Hath in the {{tooltip|2=Aries, the first sign of the Zodiac|Ram}} his half cours {{tooltip|2=run (German gerannt)|yronne}},
+And smale {{tooltip|2=fowls (birds)|foweles}} maken melodye,
+That slepen al the nyght with open {{tooltip|2=eye|yë}}
+(So {{tooltip|2=nature pricks them|priketh hem nature}} in {{tooltip|2=their hearts|hir corages}}),
+Thanne longen folk to goon on pilgrimages,
+And [[Palmer (pilgrim)|palmeres]] for to seken straunge {{tooltip|2=strands (shores)|strondes}},
+To {{tooltip|2=far|ferne}} {{tooltip|2=hallows (shrines)|halwes}}, {{tooltip|2=couth (known)|kowthe}} in sondry londes;
+And specially from every shires ende
+Of Engelond to Caunterbury they {{tooltip|2=wend (proceed)|wende}},
+The [[Thomas Becket|hooly blisful martir]] for to seke,
+That {{tooltip|2=has helped them|hem hath holpen}} whan that they were {{tooltip|2=sick|seeke}}.
+</poem>
+</blockquote>
+
+===''Paradise Lost''===
+The beginning of ''[[Paradise Lost]]'', an [[epic poetry|epic poem]] in unrhymed [[iambic pentameter]] written in Early Modern English by [[John Milton]], first published in 1667:
+
+<blockquote>
+<poem>
+Of Mans First Disobedience, and the Fruit
+Of that Forbidden Tree, whose mortal tast
+Brought Death into the World, and all our woe,
+With loss of Eden, till one greater Man
+Restore us, and regain the blissful Seat,
+Sing Heav'nly Muse, that on the secret top
+Of Oreb, or of Sinai, didst inspire
+That Shepherd, who first taught the chosen Seed,
+In the Beginning how the Heav'ns and Earth
+Rose out of Chaos: Or if Sion Hill
+Delight thee more, and Siloa's Brook that flow'd
+Fast by the Oracle of God; I thence
+Invoke thy aid to my adventrous Song,
+That with no middle flight intends to soar
+Above th' Aonian Mount, while it pursues
+Things unattempted yet in Prose or Rhime.
+</poem>
+</blockquote>
+
+===''Oliver Twist''===
+A selection from the novel ''[[Oliver Twist]]'', written by [[Charles Dickens]] in Modern English and published in 1838:
+
+<blockquote>
+The evening arrived: the boys took their places; the master in his cook's uniform stationed himself at the copper; his pauper assistants ranged themselves behind him; the gruel was served out, and a long grace was said over the short commons. The gruel disappeared, the boys whispered each other and winked at Oliver, while his next neighbours nudged him. Child as he was, he was desperate with hunger and reckless with misery. He rose from the table, and advancing, basin and spoon in hand, to the master, said, somewhat alarmed at his own temerity—
+
+"Please, sir, I want some more."
+
+The master was a fat, healthy man, but he turned very pale. He gazed in stupefied astonishment on the small rebel for some seconds, and then clung for support to the copper. The assistants were paralysed with wonder, and the boys with fear.
+
+"What!" said the master at length, in a faint voice.
+
+"Please, sir," replied Oliver, "I want some more."
+
+The master aimed a blow at Oliver's head with the ladle, pinioned him in his arms, and shrieked aloud for the [[beadle]].
+</blockquote>
+
+==See also==
+{{Portal|Language}}
+*[[Influence of French on English]]
+*[[Phonological history of English]]
+*[[Comparison of American and British English]]
+*[[English phonology]]
+*[[English studies]]
+*[[Inkhorn debate]]
+*[[Languages in the United Kingdom]]
+*[[Middle English declension]]
+*[[History of the Scots language]]
+*[[Changes to Old English vocabulary]]
+*[[Englishisation]]
+
+'''Lists:'''
+*[[List of dialects of the English language]]
+*[[List of Germanic and Latinate equivalents]]
+*[[Lists of English words of international origin]]
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+{{Refbegin}}
+* Algeo, John. ''The Origins and Development of the English Language''. Boston, Mass.: Wadsworth, 2010.
+* [[Fausto Cercignani|Cercignani, Fausto]], ''Shakespeare's Works and Elizabethan Pronunciation'', Oxford, Clarendon Press, 1981.
+* Cowie, Anthony Paul, ed. ''The Oxford history of English lexicography''. Oxford: Clarendon, 2009.
+* Fennell, Barbara A. ''A history of English: a sociolinguistic approach''. Oxford: Blackwell, 2001.
+* [[J. P. Mallory|Mallory, J. P]] (2005). ''In Search of the Indo-Europeans''. [[Thames & Hudson]]. {{ISBN|0-500-27616-1}}
+* Millward, Celia M. ''A Biography of the English Language'', 2nd edn. Fort Worth, Tex.: Harcourt Brace College Publishers, 1996.
+* [[Donald Ringe|Ringe, Donald R.]] and Taylor, Ann (2014). ''The Development of Old English – A Linguistic History of English, vol. II'', 632p. {{ISBN|978-0199207848}}. Oxford.
+* [[Rudolf Simek|Simek, Rudolf]] (2007) translated by Angela Hall. ''Dictionary of Northern Mythology''. [[Boydell & Brewer|D.S. Brewer]]. {{ISBN|0-85991-513-1}}
+{{Refend}}
+
+==Further reading==
+* OED or [[Oxford English Dictionary]], second edition in twenty volumes, Clarendon Oxford, 1989, 21 718 pages. (entries including the history of words and affixes)
+* Albert C. Baugh & Thomas Cable. ''A history of the English language'', 6th edn. Upper Saddle River, NJ: Pearson, 2013.
+* {{cite book |title=The Mother Tongue – English And How It Got That Way |author=Bill Bryson |publisher=William Morrow Paperbacks |year=1990 |isbn=978-0380715435 }}
+* ''[[The Cambridge History of the English Language]]'', Cambridge University Press, 1992-2001, in six volumes directed respectively by [[Richard Milne Hogg]], [[Norman Blake (academic)|Norman Blake]], [[Roger Lass]], [[Suzanne Romaine]], [[Robert Burchfield]], [[John Algeo]], (1. The Beginnings to 1066, March 1992 - 2. 1066–1476, August 1992 - 3. 1476–1776, January 2000 - 4.  1776–1997, January 1999 - 5. English in Britain and Overseas: Origins and Development, November 1994 - 6. English in North America, February 2001)  
+* Charles Barber. ''The English Language: A Historical Introduction''. [[Cambridge University Press]], 1993. 299 pp. (Canto edition, 2000, 312 pages, ISBN 0521785707) 
+* André Crépin. ''Deux mille ans de langue anglaise''. Paris: Nathan, 1994. 191 pp. ISBN 2-09-190074-5 (that is to say "Two thousand years of English Language", in 25 lessons by a French Beowulf specialist teaching at the [[Sorbonne University|Sorbonne]])
+* {{cite book |title=The Story of English in 100 Words |author=[[David Crystal]] |year=2013 |isbn=978-1250024206 |publisher=Picador}}
+* {{cite book |title=Wordsmiths and Warriors: The English-Language Tourist's Guide to Britain |author=David Crystal |year=2015 |isbn=978-0198729136 |publisher=Oxford University Press }}
+* Míša Hejná & George Walkden. 2022. ''A history of English''. (Textbooks in Language Sciences 9). Berlin: Language Science Press. DOI: 10.5281/zenodo.6560337 . [https://langsci-press.org/catalog/book/346 A history of English]. Open Access.
+* Seth Lerer. ''Inventing English: a portable history of the language''. NY: Columbia University Press, 2007.
+* Seth Lerer. ''Introducing the history of the English language''. NY: Routledge/Taylor & Francis, 2024.
+* {{cite book |title=Words on the Move: Why English Won't - and Can't - Sit Still (Like, Literally) |author=John McWhorter |publisher=Picador |year=2017 |isbn=978-1250143785 |author-link=John McWhorter }}
+* Terttu Nevalainen & Elizabeth Closs Traugott, eds. ''The Oxford handbook of the history of English''. Oxford: Oxford University Press, 2012.
+* Anton Adriaan Prins. ''French influence in English phrasing''. Leiden: Universitaire Pers Leiden, 1952.
+* [[Don Ringe (linguist)|Don Ringe]]. ''A history of English'', vol. 1: ''From Proto-Indo-European to Proto-Germanic'', 2nd edn. NY/Oxford: Oxford University Press, 2017 (1st edn. 2006).
+* Don Ringe & Ann Taylor. ''A history of English'', vol. 2: ''The development of Old English''. Oxford: Oxford University Press, 2014.
+* Don Ringe. ''A historical morphology of English''. Edinburgh: Edinburgh University Press, 2021.
+* Elly van Gelderen. ''A history of the English language'', 2nd edn. Amsterdam: John Benjamins, 2014.
+
+==External links==
+* [http://historyofenglishpodcast.com/episodes/ The History of English Podcast]
+*[https://youtube.com/watch?v=0wp1B1i4UxU The Spread of English Language] (video)
+* [https://www.ling.upenn.edu/histcorpora/ Penn Corpora of Historical English]
+* [http://germanic-studies.org/Scandinavian-loanwords-in-Old-and-Middle-English-and-their-legacy-in-the-dialects-of-England-and-modern-standard-English.htm Scandinavian loans in Old and Middle English, and their legacy in the dialects of England and modern standard English]
+
+{{History of English}}
+{{Germanic languages}}
+{{Language histories}}
+{{Description of English}}
+
+{{DEFAULTSORT:History Of The English Language}}
+[[Category:History of the English language| ]]
+[[Category:English phonology]]
